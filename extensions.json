@@ -467,7 +467,7 @@
             "name": "Title-Wrap",
             "author": "₣rans de Jonge, Joris Kinable",
             "description": "Applies a line-wrap to long article titles, as opposed to truncating the title when it overflows its display area.",
-            "version": "0.2",
+            "version": "0.2.1",
             "entrypoint": "TitleWrap",
             "type": "user",
             "url": "https://github.com/FreshRSS/Extensions",
@@ -518,6 +518,17 @@
             "url": "https://github.com/aledeg/xExtension-WhiteList",
             "method": "git",
             "directory": "."
+        },
+        {
+            "name": "YouTube/PeerTube Video Feed",
+            "author": "Kevin Papst",
+            "description": "Embed YouTube/PeerTube feeds inside article content.",
+            "version": "0.1",
+            "entrypoint": "YouTube",
+            "type": "user",
+            "url": "https://github.com/FreshRSS/Extensions",
+            "method": "git",
+            "directory": "xExtension-YouTube"
         },
         {
             "name": "YouTube/PeerTube Video Feed",
