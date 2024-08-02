@@ -531,6 +531,17 @@
             "directory": "."
         },
         {
+            "name": "Word highlighter",
+            "author": "Lukas Melega",
+            "description": "Highlight specific words",
+            "version": "0.0.2",
+            "entrypoint": "WordHighlighter",
+            "type": "user",
+            "url": "https://github.com/FreshRSS/Extensions",
+            "method": "git",
+            "directory": "xExtension-WordHighlighter"
+        },
+        {
             "name": "YouTube Video Feed",
             "author": "Kevin Papst",
             "description": "Embed YouTube feeds inside article content.",
